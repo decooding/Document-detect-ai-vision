@@ -11,3 +11,10 @@
 3. Установите зависимости:
 
 pip install -r requirements.txt
+
+## Важно!
+Нужен ключ API от Google Cloude Vision
+
+## Команда запуска
+
+streamlit run .\main.py
