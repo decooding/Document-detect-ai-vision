@@ -1,0 +1,5 @@
+google-cloud-vision
+numpy
+streamlit
+pyzbar
+Pillow
